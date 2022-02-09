@@ -1,16 +1,16 @@
-# bmicalculator
+React JS App find github users and open info and repositories
 
-A new Flutter project.
+Use:
+npm install axios
+npm install bootstrap
 
-## Getting Started
+API GitHub
 
-This project is a starting point for a Flutter application.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   
+<li align="center">
+    <img src="https://raw.githubusercontent.com/Antonyakov/bmicalculator/master/Screenshot_1644432654.png" width="450" alt="accessibility text">  
+    <img src="https://raw.githubusercontent.com/Antonyakov/react-hooks/master/2.png" width="450" alt="accessibility text">
+</li>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://raw.githubusercontent.com/Antonyakov/bmicalculator/master/Screenshot_1644432654.png
