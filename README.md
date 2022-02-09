@@ -4,7 +4,7 @@ Use:
 main flutter widgets
 working with StatefulWidget
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [bmicalculator](https://github.com/facebook/create-react-app).
    
 <li align="center">
     <img src="https://raw.githubusercontent.com/Antonyakov/bmicalculator/master/Screenshot_1644432654.png" width="450" alt="accessibility text">  
