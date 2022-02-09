@@ -1,16 +1,8 @@
-React JS App find github users and open info and repositories
+Simple app CALCULATE MY BMI
 
 Use:
-npm install axios
-npm install bootstrap
+main flutter widgets
+working with StatefulWidget 
 
-API GitHub
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-   
-<li align="center">
-    <img src="https://raw.githubusercontent.com/Antonyakov/bmicalculator/master/Screenshot_1644432654.png" width="450" alt="accessibility text">  
-    <img src="https://raw.githubusercontent.com/Antonyakov/react-hooks/master/2.png" width="450" alt="accessibility text">
-</li>
 
 https://raw.githubusercontent.com/Antonyakov/bmicalculator/master/Screenshot_1644432654.png
